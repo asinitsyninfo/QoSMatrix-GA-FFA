@@ -1,5 +1,8 @@
 # QoSMatrix-GA-FFA
-Network Calculus
+
+Fisrt install Library GraphViz (Ubuntu 20.04 LTS)
+sudo apt-get install -y graphviz
+
 Download, mark FFA GAO NGD as executable
 GAO_Settings.ini - parameters for Genetic Algorithm
 input.txt - graph (node_num - node_num - capacity)
