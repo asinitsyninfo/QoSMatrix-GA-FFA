@@ -1,4 +1,4 @@
-# NetCalc
+# QoSMatrix-GA-FFA
 Network Calculus
 Download, mark FFA GAO NGD as executable
 GAO_Settings.ini - parameters for Genetic Algorithm
